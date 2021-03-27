@@ -310,7 +310,7 @@
 		5D8DD06023E319B300E097EF /* Encounter+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Encounter+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		5DC7B8D0242B8536008E1715 /* BluetraceConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetraceConfig.swift; sourceTree = "<group>"; };
 		5DC7B8D2242B8D87008E1715 /* BluetraceUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetraceUtils.swift; sourceTree = "<group>"; };
-		5DD41D3723DCB03B00FD4AB0 /* COVIDSafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = COVIDSafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DD41D3723DCB03B00FD4AB0 /* BeSafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeSafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DD41D3A23DCB03B00FD4AB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5DD41D4123DCB03B00FD4AB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5DD41D4323DCB03D00FD4AB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -589,7 +589,7 @@
 		5DD41D3823DCB03B00FD4AB0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5DD41D3723DCB03B00FD4AB0 /* COVIDSafe.app */,
+				5DD41D3723DCB03B00FD4AB0 /* BeSafe.app */,
 				5B92D6D9243018040049877B /* COVIDSafe-staging.app */,
 			);
 			name = Products;
@@ -786,7 +786,7 @@
 			);
 			name = CovidSafe;
 			productName = trace;
-			productReference = 5DD41D3723DCB03B00FD4AB0 /* COVIDSafe.app */;
+			productReference = 5DD41D3723DCB03B00FD4AB0 /* BeSafe.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -1318,8 +1318,8 @@
 				);
 				MARKETING_VERSION = 1.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = au.gov.health.covidsafe;
-				PRODUCT_NAME = COVIDSafe;
+				PRODUCT_BUNDLE_IDENTIFIER = ke.co.visualdiagnoser.besafe;
+				PRODUCT_NAME = BeSafe;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVICE_UUID = "17E033D3-490E-4BC9-9FE8-2F567643F4D3";
 				SWIFT_OBJC_BRIDGING_HEADER = "CovidSafe/covid-Bridging-Header.h";
@@ -1400,8 +1400,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = au.gov.health.covidsafe;
-				PRODUCT_NAME = COVIDSafe;
+				PRODUCT_BUNDLE_IDENTIFIER = ke.co.visualdiagnoser.besafe;
+				PRODUCT_NAME = BeSafe;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVICE_UUID = "B82AB3FC-1595-4F6A-80F0-FE094CC218F9";
 				SWIFT_OBJC_BRIDGING_HEADER = "CovidSafe/covid-Bridging-Header.h";
@@ -1661,8 +1661,8 @@
 				);
 				MARKETING_VERSION = 1.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = au.gov.health.covidsafe;
-				PRODUCT_NAME = COVIDSafe;
+				PRODUCT_BUNDLE_IDENTIFIER = ke.co.visualdiagnoser.besafe;
+				PRODUCT_NAME = BeSafe;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVICE_UUID = "CC0AC8B7-03B5-4252-8D84-44D199E16065";
 				SWIFT_OBJC_BRIDGING_HEADER = "CovidSafe/covid-Bridging-Header.h";
@@ -1688,8 +1688,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = au.gov.health.covidsafe;
-				PRODUCT_NAME = COVIDSafe;
+				PRODUCT_BUNDLE_IDENTIFIER = ke.co.visualdiagnoser.besafe;
+				PRODUCT_NAME = BeSafe;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVICE_UUID = "B82AB3FC-1595-4F6A-80F0-FE094CC218F9";
 				SWIFT_OBJC_BRIDGING_HEADER = "CovidSafe/covid-Bridging-Header.h";
