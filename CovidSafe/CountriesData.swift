@@ -1,6 +1,6 @@
 //
 //  Countries.swift
-//  CovidSafe
+//  BeSafe
 //
 //  Copyright © 2020 Dominic Tabu. All rights reserved.
 //
@@ -11,7 +11,8 @@ struct CountriesData {
     
     static let countryCodes =
         [
-            "Australia": "+61"
+            "Kenya": "+254"
+            
         ]
     
 }
