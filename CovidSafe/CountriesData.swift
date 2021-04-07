@@ -2,12 +2,12 @@
 //  Countries.swift
 //  CovidSafe
 //
-//  Copyright © 2020 Joel Kek. All rights reserved.
+//  Copyright © 2020 Dominic Tabu. All rights reserved.
 //
 
 struct CountriesData {
     
-    static let countryArray = ["Australia"]
+    static let countryArray = ["Kenya"]
     
     static let countryCodes =
         [
